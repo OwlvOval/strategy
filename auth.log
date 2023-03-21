@@ -1,0 +1,68 @@
+Mar  5 00:05:01 owl-Nitro-AN515-52 CRON[1831436]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:05:01 owl-Nitro-AN515-52 CRON[1831436]: pam_unix(cron:session): session closed for user root
+Mar  5 00:15:01 owl-Nitro-AN515-52 CRON[1857539]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:15:01 owl-Nitro-AN515-52 CRON[1857539]: pam_unix(cron:session): session closed for user root
+Mar  5 00:17:01 owl-Nitro-AN515-52 CRON[1862863]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:17:01 owl-Nitro-AN515-52 CRON[1862863]: pam_unix(cron:session): session closed for user root
+Mar  5 00:25:01 owl-Nitro-AN515-52 CRON[1883246]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:25:01 owl-Nitro-AN515-52 CRON[1883246]: pam_unix(cron:session): session closed for user root
+Mar  5 00:35:01 owl-Nitro-AN515-52 CRON[1909284]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:35:01 owl-Nitro-AN515-52 CRON[1909284]: pam_unix(cron:session): session closed for user root
+Mar  5 00:45:01 owl-Nitro-AN515-52 CRON[1935234]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:45:01 owl-Nitro-AN515-52 CRON[1935234]: pam_unix(cron:session): session closed for user root
+Mar  5 00:55:01 owl-Nitro-AN515-52 CRON[1961307]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 00:55:01 owl-Nitro-AN515-52 CRON[1961307]: pam_unix(cron:session): session closed for user root
+Mar  5 01:05:01 owl-Nitro-AN515-52 CRON[1987480]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:05:01 owl-Nitro-AN515-52 CRON[1987480]: pam_unix(cron:session): session closed for user root
+Mar  5 01:15:01 owl-Nitro-AN515-52 CRON[2013196]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:15:01 owl-Nitro-AN515-52 CRON[2013196]: pam_unix(cron:session): session closed for user root
+Mar  5 01:17:01 owl-Nitro-AN515-52 CRON[2018355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:17:01 owl-Nitro-AN515-52 CRON[2018355]: pam_unix(cron:session): session closed for user root
+Mar  5 01:25:01 owl-Nitro-AN515-52 CRON[2039306]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:25:01 owl-Nitro-AN515-52 CRON[2039306]: pam_unix(cron:session): session closed for user root
+Mar  5 01:35:01 owl-Nitro-AN515-52 CRON[2065246]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:35:01 owl-Nitro-AN515-52 CRON[2065246]: pam_unix(cron:session): session closed for user root
+Mar  5 01:45:01 owl-Nitro-AN515-52 CRON[2091282]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:45:01 owl-Nitro-AN515-52 CRON[2091282]: pam_unix(cron:session): session closed for user root
+Mar  5 01:50:19 owl-Nitro-AN515-52 gdm-password]: gkr-pam: unlocked login keyring
+Mar  5 01:55:01 owl-Nitro-AN515-52 CRON[2117567]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 01:55:01 owl-Nitro-AN515-52 CRON[2117567]: pam_unix(cron:session): session closed for user root
+Mar  5 02:03:18 owl-Nitro-AN515-52 systemd-logind[822]: System is powering down.
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event3 (Power Button)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event2 (Power Button)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event7 (COMPANY  USB Device )
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event9 (COMPANY  USB Device  Keyboard)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: Watching system buttons on /dev/input/event5 (Acer WMI hotkeys)
+Mar  5 09:42:05 owl-Nitro-AN515-52 systemd-logind[829]: New seat seat0.
+Mar  5 09:42:11 owl-Nitro-AN515-52 ipsec_starter[1263]: Starting strongSwan 5.9.5 IPsec [starter]...
+Mar  5 09:42:12 owl-Nitro-AN515-52 ipsec_starter[1263]: charon (1282) started after 100 ms
+Mar  5 09:42:15 owl-Nitro-AN515-52 gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=127) by (uid=0)
+Mar  5 09:42:15 owl-Nitro-AN515-52 systemd-logind[829]: New session c1 of user gdm.
+Mar  5 09:42:15 owl-Nitro-AN515-52 systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=127) by (uid=0)
+Mar  5 09:42:17 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:42:17 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:42:18 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:42:19 owl-Nitro-AN515-52 polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.142 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Mar  5 09:42:19 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:42:19 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:45:01 owl-Nitro-AN515-52 CRON[12300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 09:45:01 owl-Nitro-AN515-52 CRON[12300]: pam_unix(cron:session): session closed for user root
+Mar  5 09:55:01 owl-Nitro-AN515-52 CRON[38411]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  5 09:55:01 owl-Nitro-AN515-52 CRON[38411]: pam_unix(cron:session): session closed for user root
+Mar  5 09:59:33 owl-Nitro-AN515-52 gdm-password]: gkr-pam: unable to locate daemon control file
+Mar  5 09:59:33 owl-Nitro-AN515-52 gdm-password]: gkr-pam: stashed password to try later in open session
+Mar  5 09:59:33 owl-Nitro-AN515-52 gdm-password]: pam_unix(gdm-password:session): session opened for user owl(uid=1000) by (uid=0)
+Mar  5 09:59:33 owl-Nitro-AN515-52 systemd-logind[829]: New session 4 of user owl.
+Mar  5 09:59:33 owl-Nitro-AN515-52 systemd: pam_unix(systemd-user:session): session opened for user owl(uid=1000) by (uid=0)
+Mar  5 09:59:33 owl-Nitro-AN515-52 gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Mar  5 09:59:36 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:59:36 owl-Nitro-AN515-52 gnome-keyring-daemon[50132]: The Secret Service was already initialized
+Mar  5 09:59:36 owl-Nitro-AN515-52 gnome-keyring-daemon[50132]: The SSH agent was already initialized
+Mar  5 09:59:36 owl-Nitro-AN515-52 gnome-keyring-daemon[50132]: The PKCS#11 component was already initialized
+Mar  5 09:59:37 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+Mar  5 09:59:37 owl-Nitro-AN515-52 polkitd(authority=local): Registered Authentication Agent for unix-session:4 (system bus name :1.1681 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Mar  5 09:59:38 owl-Nitro-AN515-52 systemd-logind[829]: Image lacks .osrel section, refusing.
+
